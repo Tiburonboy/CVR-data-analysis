@@ -1,2 +1,2 @@
 readme
-backup ipython notebooks
+ipython notebooks and data
