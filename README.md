@@ -1,4 +1,4 @@
 # CVR-data-analysis
 fire pulse data analysis
 
-some ipython note book sto analyze fire pulse data.
+an ipython notebook to analyze fire pulse data.
